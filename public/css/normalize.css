@@ -347,3 +347,14 @@
   [hidden] {
     display: none;
   }
+
+
+/* --------------------NUEVOS ESTILOS -------------------*/
+  .p-2{
+    text-align: justify;
+    font-size: small;
+  }
+
+  .linkPerfil{
+    color: white;
+  }
